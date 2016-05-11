@@ -1,9 +1,9 @@
-# <center>**C++ Web Template Library Project**</center>
-**Author**: Pedro Henrique
-**Contact**: ph.geekstuff@gmail.com..
-**Document Version**: 0.1b (for Coimbra Engineering Institute)
-**Created at**: May 7, 2016
-**GitHub**: https://github.com/phgeekstuff/wtl.git
+# <center>**C++ Web Template Library Project**</center>  
+**Author**: Pedro Henrique  
+**Contact**: ph.geekstuff@gmail.com  
+**Document Version**: 0.1b (for Coimbra Engineering Institute)  
+**Created at**: May 7, 2016  
+**GitHub**: https://github.com/phgeekstuff/wtl.git  
 <p />
 <p />
 
