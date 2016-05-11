@@ -1,26 +1,28 @@
-# <center>**C++ Web Template Library Project**</center>
-**Software Requirements Specification**
-**Author**: Pedro Henrique
-**Contact**: ph.geekstuff@gmail.com..
-**Document Name**: srs.md (Markdown)
-**Document Version**: 0.1b (for Coimbra Engineering Institute)
-**Updated on**: May 10, 2016
+# <center>**C++ Web Template Library Project**</center> 
+**Software Requirements Specification** 
+**Author**: Pedro Henrique 
+**Contact**: ph.geekstuff@gmail.com 
+**Document Name**: srs.md (Markdown) 
+**Document Version**: 0.1b (for Coimbra Engineering Institute) 
+**Updated at**: May 10, 2016 
 **GitHub**: https://github.com/phgeekstuff/wtl.git
-<p />
-<p />
+  
 
 ### 1. History
 
-+ May 7, 2016: First Specification.
-+ May 10, 2016: Specifying **FR0005**.
+| Date | Responsible | Description |
+|---|---|---|
+| May 7, 2016 | Pedro Henrique | First Specification. |
+| May 10, 2016 | Pedro Henrique | Specifying **FR0005**.|
+| May 11, 2016 | Pedro Henrique | .|
 
 ### 2. Overview
 	
-The goal of the project is to build and maintain a high-level abstraction for C/C++ developers to take advantage of all modern standards of web, such as: HTTP, HTML, CSS, JavaScript, SOAP and RESTFull web services, so on. Also, the idea is to provide tools for easy migration of legacy code and apps to web/connected environment. 
+The goal of the project is to build and maintain a high-level abstraction for C/C++ developers to take advantage of all modern standards of web, such as: HTTP, HTML, CSS, JavaScript, SOAP and RESTFul web services, and so on. Also, the idea is to provide tools for easy migration of legacy code and apps to web/connected environment. 
 
 ### 3. Introduction
 
-The goal of this document is to keep track of all requirements related to C++ Web  Project. 
+The goal of this document is to keep track of all requirements related to C++ Web Template Library Project. 
 
 ### 4. User Types
 
@@ -102,12 +104,14 @@ Considering C++ common sense, Object Oriented Programming should be the second c
 
 ### 7. Glossary
 
-<em>**css**</em>: Cascade Stylesheet
-<em>**html**</em>: Hypertext Markup Language
-<em>**http**</em>: Hypertext Transfer Protocol 
-<em>**json**</em>: JavaScript Object Notation
-<em>**stl**</em>: C++ Standard Template Library
-<em>**wtl**</em>: C++ Web Template Library
+* <em>**css**</em>: Cascade Stylesheet
+* <em>**html**</em>: Hypertext Markup Language
+* <em>**http**</em>: Hypertext Transfer Protocol 
+* <em>**json**</em>: JavaScript Object Notation
+* <em>**rest**</em>: Representational State Transfer
+* <em>**soap**</em>: Simple Access Object Protocol
+* <em>**stl**</em>: C++ Standard Template Library
+* <em>**wtl**</em>: C++ Web Template Library
 
 ### 8. References
 
