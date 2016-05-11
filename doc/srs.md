@@ -2,11 +2,10 @@
 **Software Requirements Specification** 
 **Author**: Pedro Henrique 
 **Contact**: ph.geekstuff@gmail.com 
-**Document Name**: srs.md (Markdown) 
+**Document Name**: srs.md (Markdown)
 **Document Version**: 0.1b (for Coimbra Engineering Institute) 
 **Updated at**: May 10, 2016 
 **GitHub**: https://github.com/phgeekstuff/wtl.git
-  
 
 ### 1. History
 
